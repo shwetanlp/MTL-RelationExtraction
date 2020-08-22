@@ -16,6 +16,16 @@ pip install -r requirements.txt
 # How to Run:
  * Please download the pre-trained word embedding from here and put it in the directory
 "[data](http://evexdb.org/pmresources/vec-space-models/wikipedia-pubmed-and-PMC-w2v.bin)".
+* Download all the dataset AiMED, BioInfer, i2b2 2010clinical information challenge and Semeval 2013 DDIExtraction challenge dataset.
+* Split the data into train and test set and places them under the directory "data".
+* The dataset files should be in the following file name structure:
+
+<dataset_name>-<fold_number>.train
+<dataset_name>-<fold_number>.test
+
+E.g.  aimed-2.train, aimed-2.test
+An example of the sample file is given in the directory "data" with the name “sample-data.txt”
+
 * Go the “src” directory.
 * Run the following command:
      ```
