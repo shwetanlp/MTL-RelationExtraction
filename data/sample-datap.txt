@@ -1,4 +1,0 @@
-alpha-catenin inhibits PROTIEN signaling by preventing formation of a PROTIEN complex.	True
-alpha-catenin inhibits beta-catenin signaling by preventing formation of a PROTIEN , PROTIEN complex.	True
-PROTIEN inhibits PROTIEN signaling by preventing formation of a beta-catenin*T-cell factor*DNA complex.	True
-PROTIEN inhibits beta-catenin signaling by preventing formation of a PROTIEN factor*DNA complex.	True
