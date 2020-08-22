@@ -45,4 +45,4 @@ If you are using this code then please cite our paper:
 
 
 ## License
-The MMQA dataset is distributed under the [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) license.
+This code is distributed under the [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) license.
