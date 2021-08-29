@@ -40,6 +40,7 @@ If you are using this code then please cite our paper:
 
 
 ```
+S. Yadav, S. Ramesh, S. Saha and A. Ekbal, "Relation Extraction from Biomedical and Clinical Text: Unified Multitask Learning Framework," in IEEE/ACM Transactions on Computational Biology and Bioinformatics, doi: 10.1109/TCBB.2020.3020016.
 
 ```
 
