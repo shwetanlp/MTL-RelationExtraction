@@ -47,7 +47,8 @@ title={Relation Extraction from Biomedical and Clinical Text: Unified Multitask 
 year={2020},  
 volume={},
 number={},
-pages={1-1},  doi={10.1109/TCBB.2020.3020016}}
+pages={1-1},  
+doi={10.1109/TCBB.2020.3020016}}
 
 ```
 
