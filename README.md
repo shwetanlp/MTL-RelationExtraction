@@ -40,7 +40,14 @@ If you are using this code then please cite our paper:
 
 
 ```
-S. Yadav, S. Ramesh, S. Saha and A. Ekbal, "Relation Extraction from Biomedical and Clinical Text: Unified Multitask Learning Framework," in IEEE/ACM Transactions on Computational Biology and Bioinformatics, doi: 10.1109/TCBB.2020.3020016.
+@ARTICLE{9178986,  
+author={Yadav, Shweta and Ramesh, Srivastsa and Saha, Sriparna and Ekbal, Asif}, 
+journal={IEEE/ACM Transactions on Computational Biology and Bioinformatics},  
+title={Relation Extraction from Biomedical and Clinical Text: Unified Multitask Learning Framework}, 
+year={2020},  
+volume={},
+number={},
+pages={1-1},  doi={10.1109/TCBB.2020.3020016}}
 
 ```
 
